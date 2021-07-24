@@ -1,0 +1,8 @@
+Features:           Coefficients:
+x1 Understanding -> 30
+x2 Weather -> 2
+x3 Health -> 20
+x4 Breakfast -> 5
+
+
+30x1 + 2x2 + 20x3 + 5x4 = y
