@@ -1,0 +1,7 @@
+1. Create a virtual environment
+2. Install the required packages and jupyter notebook
+3. Train and test algorithms in jupyter notebook
+4. Create a front end for the application
+5. Create a pickle file for the final algorithm
+6. Create the API: app.py
+7. Connect it with your front end 
